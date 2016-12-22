@@ -1,3 +1,4 @@
+#Содержит ли согласные буквы
 import re
 
 def ContainSymbols(s):
